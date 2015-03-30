@@ -1,14 +1,4 @@
 
-	/* Time spent on a2:  04 hours and 12 minutes.
-
-	 * Name: Samuel Ocbazghi
-	 * Netid: sbo25
-	 * What I thought about this assignment:
-	 *At first, I was almost completely confused as to what was going on, but after
-	 *drawing some diagrams and some online research, I got the hang of it. After that, 
-	 *it was smooth sailing.
-	 *
-	 */
 
 	/** An instance is a doubly linked list. */
 	public class DLinkedList<E> {
